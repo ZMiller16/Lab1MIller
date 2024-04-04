@@ -1,0 +1,3 @@
+﻿  Laboratory.cpp
+C:\Users\ztmil\source\repos\Lab1Miller\Lab1Miller\Laboratory.cpp(19,10): warning C4305: '=': truncation from 'double' to 'float'
+  Lab1Miller.vcxproj -> C:\Users\ztmil\source\repos\Lab1Miller\x64\Debug\Lab1Miller.exe
